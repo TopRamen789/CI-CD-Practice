@@ -1,0 +1,51 @@
+// "jira-api"
+[
+	{
+		"ticket": "TEST-1234",
+		"type": "task",
+		"description": "TEST-1234 desc",
+		"storypoints": "1"
+	},
+	{
+		"ticket": "TEST-1235",
+		"type": "bug",
+		"description": "TEST-1235 desc",
+		"storypoints": "0.5"
+	},
+	{
+		"ticket": "TEST-1236",
+		"type": "support bug",
+		"description": "TEST-1236 desc",
+		"storypoints": "3"
+	},
+	{
+		"ticket": "TEST-1237",
+		"type": "subtask",
+		"description": "TEST-1237 desc",
+		"storypoints": "2"
+	},
+	{
+		"ticket": "TEST-1238",
+		"type": "epic",
+		"description": "TEST-1238 desc",
+		"storypoints": "5"
+	},
+	{
+		"ticket": "TEST-1239",
+		"type": "subtask",
+		"description": "TEST-1239 desc",
+		"storypoints": "2"
+	},
+	{
+		"ticket": "TEST-1250",
+		"type": "bug",
+		"description": "TEST-1250 desc",
+		"storypoints": "1"
+	},
+	{
+		"ticket": "TEST-1251",
+		"type": "",
+		"description": "TEST-1251 desc",
+		"storypoints": "1"
+	}
+]
